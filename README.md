@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning *React Js, Node Js*
 
-- 👨‍💻 All of my projects are available at [https://arkajyoti.vercel.app/](https://arkajyoti-roy.vercel.app)
+- 👨‍💻 All of my projects are available at [https://arkajyoti.vercel.app/](https://arkajyoti.vercel.app/)
 
 - 📫 How to reach me *arkajyotiroy@outlook.in*
 
